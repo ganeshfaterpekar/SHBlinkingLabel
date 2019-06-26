@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SHBlinkingLabel_Example' do
+  pod 'SHBlinkingLabel', :path => '../'
+
+  target 'SHBlinkingLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
