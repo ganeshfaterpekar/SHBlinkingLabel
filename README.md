@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/SHBlinkingLabel.svg?style=flat)](https://cocoapods.org/pods/SHBlinkingLabel)
 [![Platform](https://img.shields.io/cocoapods/p/SHBlinkingLabel.svg?style=flat)](https://cocoapods.org/pods/SHBlinkingLabel)
 
+## Warnings
+WIP - Do not clone
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
