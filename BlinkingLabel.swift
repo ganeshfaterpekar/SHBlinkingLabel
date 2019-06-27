@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import SHBlinkingLabel
 
 
 public class SHBlinkingLabel : UILabel {
