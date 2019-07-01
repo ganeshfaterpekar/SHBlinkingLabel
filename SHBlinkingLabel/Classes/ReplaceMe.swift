@@ -1,8 +1,6 @@
 
 import Foundation
 
-
-
 public class SHBlinkingLabel : UILabel {
     public func startBlinking() {
         let options : UIView.AnimationOptions = [.repeat,.autoreverse]
@@ -10,6 +8,8 @@ public class SHBlinkingLabel : UILabel {
             self.alpha = 0
         }, completion: nil)
     }
+    
+    
     
     public func stopBlinking() {
         alpha = 1
