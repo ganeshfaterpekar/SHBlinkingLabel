@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
   s.swift_version = '4.2'
-  spec.documentation_url = 'https://github.com/StreetHawkInc/paper-onboarding/blob/master/README.md'
+  s.documentation_url = 'https://github.com/StreetHawkInc/paper-onboarding/blob/master/README.md'
   s.source_files = 'SHBlinkingLabel/Classes/**/*'
   
   # s.resource_bundles = {
