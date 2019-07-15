@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/SHBlinkingLabel.svg?style=flat)](https://cocoapods.org/pods/SHBlinkingLabel)
 
 ## Warnings
-WIP - Do not clone
+WIP - Do not clone : Testing
 
 ## Example
 
